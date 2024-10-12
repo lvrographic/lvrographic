@@ -1,10 +1,6 @@
-<div align="center">
-  <img height="200" src="https://imgur.com/a/zvOd5gc"  />
-</div>
-
 ###
 
-<h4 align="left">Hi, I'm Lvro.</h4>
+<h3 align="center">Hi, I'm Lvro.</h3>
 
 ###
 
