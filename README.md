@@ -12,7 +12,7 @@
 
 ###
 
-<h4 align="center">Proficient in a diverse range of creative design tools and front-end development technologies.</h4>
+<h4 align="center">Proficient in a diverse range of creative design tools and frontend development technologies.</h4>
 
 ###
 
